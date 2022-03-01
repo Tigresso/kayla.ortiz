@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from '/Users/kaylaortiz/Desktop/kayla.ortiz.github.io/src/kayla ortiz.jpg';
 import './App.css';
 
 function App() {
